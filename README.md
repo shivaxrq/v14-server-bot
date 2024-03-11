@@ -1,3 +1,7 @@
+# BOT AYAR?
+
+'Cevaplama' .botayar bastıktan sonra hiç uğraşmadan BOT İSMİ, HAKKINDA KISMI, BOT PP, değiştirebilirsiniz =)
+
 ```js
 "Config.js" sizler için hazırladığım Server Bots
 
